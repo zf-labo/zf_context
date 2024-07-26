@@ -12,7 +12,7 @@ Hope you enjoy this "re-creation" of the nh-context with a new design that is mo
 
 
 ## Installation
-To Install the ZF Context Menu, you need to down it ![Here](https://github.com/zf-development/zf_context/releases).
+To Install the ZF Context Menu, you need to download the code.
 After you've downloaded the zf_context, install it in '[resource]/[local]/zf_context'.
 Don't forget to start the resource in your server.cfg with `ensure zf_context`
 
@@ -64,4 +64,4 @@ end, false)
 
 
 # Support
-If you find an error or have a suggestion, please feel free to help us by creating an issue on the github! [Issues](https://github.com/zf-development/zf_context/issues)
+No more support offered, this is an archive.
